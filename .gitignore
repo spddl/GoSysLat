@@ -1,0 +1,8 @@
+GoSysLat.exe
+LogFolder/
+TestCases/
+TargetWindow_D3D11/
+*.csv
+*.html
+*.txt
+*.log
