@@ -1,4 +1,11 @@
 # GoSysLat
+[![Downloads][1]][2] [![GitHub stars][3]][4]
+
+[1]: https://img.shields.io/github/downloads/spddl/GoSysLat/total.svg
+[2]: https://github.com/spddl/GoSysLat/releases "Downloads"
+
+[3]: https://img.shields.io/github/stars/spddl/GoSysLat.svg
+[4]: https://github.com/spddl/GoSysLat/stargazers "GitHub stars"
 
 I didn't understand the original SysLat software and how it interacted with the device at first, so I wanted to rebuild it to understand it better. This allowed me to add some functions afterwards and increase the speed of the query.
 
